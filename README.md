@@ -2,6 +2,8 @@
 Shows binds and how to use the menu.
 # [Click here for the wiki page!](https://github.com/BurningSunFlare/Vappy-Binds/wiki)
 
+[![Github All Releases](https://img.shields.io/github/downloads/BurningSunFlare/Vappy-Binds/total.svg)]()
+
 Changelog:
 
 0.13.0(Customization Update!)
