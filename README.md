@@ -467,5 +467,8 @@ Vscript Update
 1.2.6
 - Ferros Infection Updated
 
+  1.2.7 (BEST UPDATE EVER)
+  - Voclaize left stick fixed
+
 Credits:
 Me, Myself, and MrMuffin2247(Helps Test and helps auto build with me)
