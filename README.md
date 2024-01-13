@@ -467,8 +467,40 @@ Vscript Update
 1.2.6
 - Ferros Infection Updated
 
-  1.2.7 (BEST UPDATE EVER)
-  - Voclaize left stick fixed
+1.2.7 (BEST UPDATE EVER)
+- Voclaize left stick fixed
+
+1.2.8 ( Gamemodes Update )
+- No longer need the password to emergency reset, you can just switch configs
+- 1v1 Hunter
+- 2v2 Hunter
+- 3v3 Hunter
+- 2v2
 
 Credits:
-Me, Myself, and MrMuffin2247(Helps Test and helps auto build with me)
+@twitchkat( Discord, Made the entire infection by themselves using code with vscript, with support of bug testers )
+
+Major Help
+- @MrMuffin2247( Helps Test A LOT and helps auto build with me, constantly finds bugs which I can fix )
+
+Beta Tester
+- @mrmuffin2247
+- @vezkk
+- @zcrame
+
+Map Artist
+- @MrMuffin2247
+
+Bug Finder
+- @mrmuffin2247
+- @vezkk
+- @zcrame
+- @axieu
+
+Overall Good Support( My Guinea Pig Team lol. They can help out with small things, or give ideas! These usually all have their custom theme! They also tend to infect people with good intentions )
+- @mrmuffin2247
+- @vezkk
+- @zcrame
+- @axieu
+- @ztwv
+- @J0w03L
