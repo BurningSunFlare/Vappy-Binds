@@ -476,6 +476,18 @@ Vscript Update
 - 2v2 Hunter
 - 3v3 Hunter
 - 2v2
+- 3v3
+- 4v4
+
+1.3 ( Bug Fix Update )
+- Changed Survival Option to say Precache L4D1 Survivors(Must do first)
+- Fixed PlayerThanks
+- Fixed Crosshair Reset
+- Fixed Tornado Wait Message to be at the end
+- Fixed Chainsaw
+- Fixed Reset Theme not properly resetting survivor name( Didn't automatically reset until after exiting menu )
+- Fixed Reset Theme not properly resetting Infected name( Didn't automatically reset until after exiting menu )
+- 
 
 Credits:
 @twitchkat( Discord, Made the entire infection by themselves using code with vscript, with support of bug testers )
