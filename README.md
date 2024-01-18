@@ -487,7 +487,6 @@ Vscript Update
 - Fixed Chainsaw
 - Fixed Reset Theme not properly resetting survivor name( Didn't automatically reset until after exiting menu )
 - Fixed Reset Theme not properly resetting Infected name( Didn't automatically reset until after exiting menu )
-- 
 
 Credits:
 @twitchkat( Discord, Made the entire infection by themselves using code with vscript, with support of bug testers )
