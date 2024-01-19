@@ -490,7 +490,7 @@ Vscript Update
 - Fixed axieu's Theme Being Forced When Getting Infected More Than Once
 
 1.3.1 ( Extra Gamemodes And Test Stuff )
-- Added 444 Waffles
+- Added 4v4 Waffles
 - Added 4v4 axieu
 - Added 4v4 Rooftop
 - Added Fire Enabler
