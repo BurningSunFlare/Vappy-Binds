@@ -484,10 +484,29 @@ Vscript Update
 - Fixed PlayerThanks
 - Fixed Crosshair Reset
 - Fixed Tornado Wait Message to be at the end
-- Fixed Chainsaw
+- Fixed Chainsaw Scrolling
 - Fixed Reset Theme not properly resetting survivor name( Didn't automatically reset until after exiting menu )
 - Fixed Reset Theme not properly resetting Infected name( Didn't automatically reset until after exiting menu )
+- Fixed axieu's Theme Being Forced When Getting Infected More Than Once
 
+1.3.1 ( Extra Gamemodes And Test Stuff )
+- Added 444 Waffles
+- Added 4v4 axieu
+- Added 4v4 Rooftop
+- Added Fire Enabler
+- Added Fire Disabler
+- Added Tank Disabler
+-Test Commands-
+- End_Game
+- Start Intro
+- Finish Intro
+- Force Starter Positions
+- Release Survivor Positions
+- Enable Tank Frustration
+- Disable Tank Frustration
+- Summon Horde
+
+  
 Credits:
 @twitchkat( Discord, Made the entire infection by themselves using code with vscript, with support of bug testers )
 
