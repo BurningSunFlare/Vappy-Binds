@@ -506,6 +506,11 @@ Vscript Update
 - Disable Tank Frustration
 - Summon Horde
 
+1.3.2( Minor Fixes )
+- Fixed 4v4 being 3 players
+- Fixed Scrolling In Gamemodes
+- Fixed Scrolling In Visions
+- Added Space After 4 In Secondaries
   
 Credits:
 @twitchkat( Discord, Made the entire infection by themselves using code with vscript, with support of bug testers )
